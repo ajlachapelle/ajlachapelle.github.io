@@ -1,7 +1,7 @@
 ---
 title: "Topomap Implementation"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "A topological projection algorithm recreated from an academic article<br/><img src=''>"
 collection: portfolio
 ---
-
-A topological projection algorithm recreated from an academic article. It showcases my ability to employ my math skills in my programs, as well as understand technical research language.
+<!-- 
+. It showcases my ability to employ my math skills in my programs, as well as understand technical research language. -->

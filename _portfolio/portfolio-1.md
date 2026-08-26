@@ -4,8 +4,10 @@ excerpt: "A deep learning AI made for current recognition in chip circuits<br/><
 collection: portfolio
 ---
 
-[Github](https://github.com/ajlachapelle/CurrentPrediction)
+[Code](https://github.com/ajlachapelle/CurrentPrediction)
+======
 
+Overview
 ======
 Neural networks are a type of algorithm that adjusts (or "trains") a large array of simple functions to approximate complex computational tasks. A graph neural network is a subtype that applies mathematical graph theory principles to apply neural networks to much more abstract problems. By representing a circuit as a graph with nodes and connections, a neural network can be leveraged to learn how current flows in the circuit without doing complex physics calculations.
 

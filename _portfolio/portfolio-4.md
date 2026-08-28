@@ -10,6 +10,9 @@ The hypercube is a semi-famous shape that can't fully be represented in three di
 
 Demo
 ======
+<video controls width="250">
+  <source src="/https://ajlachapelle.github.io/files/hypercube.webm" type="video/webm" />
+</video>
 
-[Code]()
+[Source Code]()
 ======

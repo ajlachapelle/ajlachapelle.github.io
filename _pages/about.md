@@ -12,6 +12,23 @@ Welcome to my portfolio website. You can find my [resume here](https://ajlachape
 About Me
 ======
 I am a masters student in computer science at Oregon State University (graduating in Fall 2026). 
-My primary skills fall under software development and analysis, but I have also studied mathematics and physics. My masters studies have generally focused on computation in scientific, mathematical, or machine learning contexts. 
+My primary skills fall under software development and analysis, but I have also studied mathematics and physics. My masters studies have generally focused on computation in scientific, mathematical (including graphical), or machine learning contexts.
 
 My long term goal is to find a career in software development or engineering that also aligns with my interests in math and science. In the short term, I am interested in any software development position that provides me with learning and experience for future projects.
+<!-- 
+Interests
+======
+Some related topics that I've studied include:
+Parallel computing
+Quantum computing
+Neural networks
+Numerical analysis -->
+
+<!-- Symbolic execution -->
+
+<!-- Algorithms - ?
+Proof solvers?, ? -->
+
+<!-- 
+...
+Reverse engineering? -->

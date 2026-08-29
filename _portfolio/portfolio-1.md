@@ -16,7 +16,7 @@ The technical aspects of the circuit (i.e. which components were used and their 
 
  My job was to create a neural graph that matched the description, and implement the learning algorithm.
 
-This project is my most recent, and my first AI algorithm that I programmed and trained from scratch. It also gave me experience with collaboration and writing a program to match technical specifications.
+This project is my most recent, and my first deep learning algorithm that I programmed and trained from scratch. It also gave me experience with collaboration and writing a program to match technical specifications.
 
 [Source Code](https://github.com/ajlachapelle/CurrentPrediction)
 ======

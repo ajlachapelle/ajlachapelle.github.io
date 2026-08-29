@@ -10,7 +10,7 @@ The hypercube is a semi-famous shape that can't fully be represented in three di
 
 Demo
 ======
-![](https://ajlachapelle.github.io/files/hypercube.webm)
+![](https://ajlachapelle.github.io/files/hypercube.mp4)
 
 [Source Code]()
 ======

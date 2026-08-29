@@ -13,5 +13,5 @@ Demo
 <video controls width="250">
   <source src="https://ajlachapelle.github.io/files/hypercube.mp4" type="video/mp4" />
 
-[Source Code]()
+[Source Code](https://github.com/ajlachapelle/hypercube-shader)
 ======

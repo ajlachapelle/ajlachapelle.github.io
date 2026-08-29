@@ -10,8 +10,8 @@ When we work with data points in machine learning, they can contain any amount o
 
 The algorithm itself is not my work, but I did work on implementing it as described in its academic article. This project is mainly a showcase of my ability to employ math skills in my programs, as well as understand technical research language. 
 
-![Original (https://arxiv.org/abs/2009.01512)](/https://ajlachapelle.github.io/files/teaser_cavities.png)
-![Recreation](/https://ajlachapelle.github.io/files/cavities.png)
+![Original (https://arxiv.org/abs/2009.01512)](/https://ajlachapelle.github.io/images/teaser_cavities.png)
+![Recreation](/https://ajlachapelle.github.io/images/cavities.png)
 
 [Source Code](https://github.com/ajlachapelle/TopoMap-recreation)
 ======

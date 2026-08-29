@@ -8,7 +8,11 @@ Overview
 ======
 When we work with data points in machine learning, they can contain any amount of data crunched into one container with potentially hundreds of dimensions. As such, if we want to understand the data intuitively it is important to be able to boil down this information into a readable format. There are various different algorithms that do this, and they each have to pick and choose which aspects to focus on. This algorithm in particular seeks to maintain topology, which means in short that the closest point in 100 dimensions should still be the closest point in three.
 
-The algorithm itself is not my work, but I did work on implementing it as described in its academic article. This project is mainly a showcase of my ability to employ math skills in my programs, as well as understand technical research language.
+The algorithm itself is not my work, but I did work on implementing it as described in its academic article. This project is mainly a showcase of my ability to employ math skills in my programs, as well as understand technical research language. 
 
-[Code](https://github.com/ajlachapelle/TopoMap-recreation)
+![Original (https://arxiv.org/abs/2009.01512)](/https://ajlachapelle.github.io/files/teaser_cavities.png)
+![Recreation](/https://ajlachapelle.github.io/files/cavities.png)
+
+[Source Code](https://github.com/ajlachapelle/TopoMap-recreation)
 ======
+Written in Python

@@ -8,7 +8,7 @@ Overview
 ======
 Neural networks are a type of algorithm that adjusts (or "trains") a large array of simple functions to approximate complex computational tasks. A graph neural network is a subtype that applies mathematical graph theory to leverage neural networks for more abstract problems. In this project, we represent a circuit as a graph of nodes and connecting wires, which allows the network to learn how electrical current flows in the circuit without doing complex physics calculations.
 
-The technical aspects of the circuit (i.e. which components were used and their physical quantities like resistance) were providing by a classmate:
+The technical aspects of the circuit (i.e. which components were used and their physical quantities like resistance) were provided by a classmate:
 <img
   class="fit-picture"
   src="https://ajlachapelle.github.io/files/schematic.jpg"

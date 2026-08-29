@@ -10,7 +10,7 @@ Overview
 
 <img
   class="fit-picture"
-  src="/https://ajlachapelle.github.io/files/scanline.png"
+  src="https://ajlachapelle.github.io/files/scanline.png"
   alt="Demo image output by program" />
 
 [Source Code](https://github.com/ajlachapelle/ScanlineRender)

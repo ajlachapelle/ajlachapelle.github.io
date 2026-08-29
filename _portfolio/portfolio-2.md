@@ -13,12 +13,12 @@ The algorithm itself is not my work, but I did work on implementing it as descri
 [Original](https://arxiv.org/abs/2009.01512): 
 <img
   class="fit-picture"
-  src="https://ajlachapelle.github.io/images/teaser_cavities.png"
+  src="https://ajlachapelle.github.io/files/teaser_cavities.jpg"
   alt="Original" />
 Recreation:
 <img
   class="fit-picture"
-  src="https://ajlachapelle.github.io/images/cavities.png"
+  src="https://ajlachapelle.github.io/files/cavities.png"
   alt="Recreation" />
 
 [Source Code](https://github.com/ajlachapelle/TopoMap-recreation)
